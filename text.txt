@@ -1,0 +1,68 @@
+Assignment / Assessment Specification
+
+
+
+Module
+Title
+Databases 1
+
+
+Assignment
+Name
+ERD and SQL
+
+
+Lecturer
+Patricia O'Byrne
+
+
+Class group
+TU857/2
+
+
+
+
+Worth: 20%  Due date/time
+of module    Week 11 Thursday midnight
+
+
+Submission mechanism
+(Off submit through mechanisms listed here — other submissions will be ignored)
+Brightspace
+Individual Brightspace submission
+Late submission penalty 10% per week for 1 week. No submissions allowed after that.
+
+Pick a Case Study:
+To get your case study, on Britghtspace, open Module Tools and Groups. Click the button for 
+available groups. Read through the available case studies and sign yourself up for one of them. Do 
+the assigned case studv
+ERD (10 of 20):
+
+Develop a logical and relational Model using IE notation, to hold the persistent data for your case 
+study. From this, you may generate SQL or you may prefer to write it. NOTE: submit a .png of your 
+ERD, not the DMD model. Amend the SQL as you see fit, preserving the table structure and 
+relationships. Add INSERT statements. Each table should have at least 4 rows. This is an individual 
+assignment — you should make up your own data — it should be different to data another student with 
+the same case study has.
+
+Save the document with the SQL statements. Prior to creating the tables, your script should drop 
+the current version of those tables.
+
+Run the SQL in your own database, to create the tables. SQL(10 of 20):
+Write SELECT statements to get the information back from the tables you have made. The SELECT 
+statements should show your mastery of SELECT, PROJECT, UNION, INTERSECT, EXCEPT, JOIN (inner and 
+outer), sub-queries and aggregation. Please note that when your queries are checked, marks will be 
+deducted if there is no data to satisfy the query. Submit a separate script with your queries in 
+it.
+
+Write a block of SQL code to change the data in your system, simulating a transaction. A 
+transaction is a combination of inserting, updating and / or deleting rows. Your block should have 
+at least two of these, and your transaction should be relevant to the case study.
+Submission: 
+1. Submit a Word document with a readable picture of your logical model and your relational ERD, 
+showing your thought process while creating your ERD and designing your transactions and queries.
+2. Submit well commented SQL scripts as outlined above.
+3. DEMONSTRATE your submitted work to the lab supervisor.
+PLEASE NOTE: Work that has not been demonstrated cannot be marked.
+
+
